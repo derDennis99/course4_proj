@@ -56,6 +56,8 @@ class Dev(Configuration):
       'gh',
 
       'django_celery_results',
+
+      'django_celery_beat',
   ]
 
   MIDDLEWARE = [
